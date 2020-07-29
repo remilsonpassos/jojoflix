@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Filmes",
+      "link": "https://www.youtube.com/watch?v=t_ULBP6V9bg",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "GoFilmes",
+        "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Meus melhores filmes e séries favoritas",
+          "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
         },
         {
           "titulo": "SEO com React",
