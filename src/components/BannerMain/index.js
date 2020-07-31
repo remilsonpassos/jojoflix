@@ -16,18 +16,18 @@ export default function BannerMain({
   url,
 }) {
   const youTubeID = getYouTubeId(url);
-  const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  const bgUrl = `https://cdn.pixabay.com/photo/2016/10/20/18/35/sunrise-1756274_960_720.jpg`;
 
   return (
     <BannerMainContainer backgroundImage={bgUrl}>
       <ContentAreaContainer>
         <ContentAreaContainer.Item>
           <ContentAreaContainer.Title>
-            {videoTitle}
+            {videoTitle} 
           </ContentAreaContainer.Title>
 
           <ContentAreaContainer.Description>
-            {videoDescription}
+            {videoDescription} <a size={20} href={"https://openvid.xyz/v/pyx8mcmx4ypgg4m"}>Assistir</a>
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
 
@@ -36,7 +36,7 @@ export default function BannerMain({
             youtubeID={youTubeID}
           />
           <WatchButton>
-            Assistir
+          <a size={20} href={"https://openvid.xyz/v/pyx8mcmx4ypgg4m"}>Assistir</a>
           </WatchButton>
         </ContentAreaContainer.Item>
       </ContentAreaContainer>

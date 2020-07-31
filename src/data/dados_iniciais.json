@@ -1,131 +1,53 @@
 {
   "categorias": [
     {
-      "titulo": "Filmes",
+      "titulo": "Desenhos",
       "link": "https://www.youtube.com/watch?v=t_ULBP6V9bg",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "GoFilmes",
-        "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
+        "text": "Mais",
+        "url": "https://www.youtube.com/results?search_query=jovens+titans"
       },
       "videos": [
         {
-          "titulo": "Meus melhores filmes e séries favoritas",
+          "titulo": "Meus filmes e séries favoritas",
           "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Batman",
+          "url": "https://www.youtube.com/watch?v=PNWLQKwxFPY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Jovens Titans Em Ação",
+          "url": "https://www.youtube.com/watch?v=97dv1MNqZhQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Pica Pau",
+          "url": "https://www.youtube.com/watch?v=WLM6s6PUjNU"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Scooby Doo",
+          "url": "https://www.youtube.com/watch?v=tr8YUX3zXC0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Coragem",
+          "url": "https://www.youtube.com/watch?v=KeJNAFNTlvU"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Perna Longa",
+          "url": "https://www.youtube.com/watch?v=13q6mL-dywk"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Bob Esponja",
+          "url": "https://www.youtube.com/watch?v=E5GNObvA02w"
         }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
       ]
     },
     {
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Mais",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -148,36 +70,130 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        },
+        {
+          "titulo": "MineCraft",
+          "url": "https://www.youtube.com/watch?v=cELP8OgWndQ"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "link_extra": {
+        "text": "GoFilmes",
+        "url": "https://gofilmes.me"},
+
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Homem Aranha Longe de Casa",
+          "url": "https://www.youtube.com/watch?v=6bpZXJgtYww"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+          "titulo": "Jogador número 1",
+          "url": "https://www.youtube.com/watch?v=yulwIjJ-C4Q"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Canais Legais",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Mais",
+        "url": "https://www.youtube.com/watch?v=ALc7PBojqkw"
+      },
+      "videos": [
+        {
+          "titulo": "Voce sabia",
+          "url": "https://www.youtube.com/watch?v=qdMCfeoKEgM"
+        },
+        {
+          "titulo": "NetFlix News",
+          "url": "https://www.youtube.com/watch?v=JkaxUblCGz0"
+        },
+        {
+          "titulo": "History",
+          "url": "https://www.youtube.com/watch?v=eLHzUazQzro"
+        },
+        {
+          "titulo": "Área Curiosa",
+          "url": "https://www.youtube.com/watch?v=YZqB3Kg3oAY"
+        }, 
+        {
+          "titulo": "refúgio Mental",
+          "url": "https://www.youtube.com/watch?v=pwGnmtukMso"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Séries e animes",
+      "cor": "#9cd33b",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Mais",
+        "url": "https://www.youtube.com/watch?v=QnTiHwya9Gw"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "The Hollow",
+          "url": "https://www.youtube.com/watch?v=QnTiHwya9Gw"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Love d and Robots",
+          "url": "https://www.youtube.com/watch?v=n59PkVYZ9_8"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Dragon ball",
+          "url": "https://www.youtube.com/watch?v=_1R6-RiClss"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Naruto",
+          "url": "https://www.youtube.com/watch?v=emgC-UtV0PE"
+        }
+      ]
+    },
+    
+    
+    {
+      "titulo": "Tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Mais",
+        "url": "https://www.youtube.com/watch?v=TGJZRIEB0dM"
+      },
+      "videos": [
+        {
+          "titulo": "Tech China",
+          "url": "https://www.youtube.com/watch?v=TGJZRIEB0dM"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Inovation",
+          "url": "https://www.youtube.com/watch?v=TBAo3ZHW-JI"
+        },
+        {
+          "titulo": "Future Cars",
+          "url": "https://www.youtube.com/watch?v=4LK-emuGSWM"
+        },
+        {
+          "titulo": "Phones",
+          "url": "https://www.youtube.com/watch?v=BgyJrcgVuuk"
+        },
+        {
+          "titulo": "Buracos negros",
+          "url": "https://www.youtube.com/watch?v=GbJJRsS6OR4"
         }
       ]
     }
