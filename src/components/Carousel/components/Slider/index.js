@@ -35,6 +35,7 @@ export const SliderItem = styled.li`
     width: 298px;
     height: 197px;
     object-fit: cover;
+    
   
   }
 `;
@@ -49,7 +50,7 @@ const Slider = ({ children }) => (
       centerMode: false,
       variableWidth: true,
       adaptiveHeight: true,
-    
+      
     }}
     >
       {children}

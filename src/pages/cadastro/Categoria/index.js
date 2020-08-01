@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import PageDefault from '../../../components/PageDefalt';
 import FormField from '../../../components/FormField';
+import Button from '../../../components/Menu/components/Button';
 
 function CadastroCategoria(){
 
@@ -62,7 +63,7 @@ function CadastroCategoria(){
             />
 
             <FormField 
-                label="cor da categoria"
+                label="Cor"
                 type="color"
                 name="cor"
                 value={Values.cor}
@@ -70,34 +71,11 @@ function CadastroCategoria(){
             
             />
 
-           {/*  <div>
-                <label>
-                    Descrição:
-                     <textarea
-                        type="text"
-                        value={Values.descricao}
-                        name="descricao"
-                        onChange={HandleChange}
-                />
-                </label>
-            </div> */}
+          
 
-            {/* <div>
-                <label>
-                    Nome da Categoria:
-                     <input
-                        type="color"
-                        value={Values.cor}
-                        name="cor"
-                        onChange={HandleChange}
-                />
-                </label>
-            </div> */}
-                    
-
-                <button>
+                <Button>
                 Cadastrar
-                </button>
+                </Button>
             </form>
 
             

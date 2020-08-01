@@ -18,8 +18,10 @@ export const VideoCardContainer = styled.a`
   display: flex;
   align-items: flex-end;
   padding: 16px;
+  
 
-  transition: opacity .3s;
+
+  transition: opacity .5s;
   &:hover,
   &:focus {
     opacity: .5;
@@ -28,4 +30,6 @@ export const VideoCardContainer = styled.a`
   &:not(:first-child) {
     margin-left: 20px;
   }
+
+
 `;

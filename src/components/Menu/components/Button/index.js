@@ -5,10 +5,11 @@ const Button = styled.button`
     color:red;
     border: 1px solid var(--white);
     box-sizing: border-box;
+    background-color:var(--black);
     cursor: pointer;
     padding: 16px 24px;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 500;
     font-size: 16px;
     outline: none;
     border-radius: 5px;
